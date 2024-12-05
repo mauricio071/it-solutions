@@ -1,6 +1,6 @@
 <div align="center"> <h1>IT Solutions</h1> </div>
 
-<p align="center">Uma landing page desenvolvida para destacar soluções tecnológicas e serviços de TI com foco em inovação e eficiência.</p>
+<p align="center">Inovação e tecnologia para transformar negócios.</p>
 
 <p align="center">
   <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/mauricio071/it-solutions?color=00bfa6">
@@ -10,7 +10,7 @@
 
 ## 📝 Sobre o projeto
 
-O IT Solutions é uma landing page que apresenta serviços e soluções tecnológicas voltados para empresas e profissionais que buscam otimizar seus processos e alcançar novos patamares de desempenho. 
+Landing page desenvolvida para a IT Solutions, focada em destacar serviços e soluções tecnológicas que ajudam empresas e profissionais a otimizar processos, alcançar novos patamares de desempenho e se manterem competitivos no mercado.
 
 ## 🛠 Tecnologias utilizadas
 
