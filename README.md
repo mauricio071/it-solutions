@@ -18,8 +18,8 @@ Landing page desenvolvida para a IT Solutions, focada em destacar serviços e so
 -   **Vite** - Ferramenta de build rápida para desenvolvimento front-end
 -   **JavaScript** - Linguagem de programação para desenvolvimento web
 -   **TypeScript** - Extensão do JavaScript que adiciona tipos estáticos para maior segurança
--   **HTML** - Estrutura do conteúdo
--   **CSS** - Estilização da interface
+-   **HTML** - Linguagem de marcação que estrutura o conteúdo na web
+-   **CSS** - Linguagem de estilos usada para definir o visual das interfaces web
 -   **Styled Components** - Biblioteca para estilização baseada em componentes no React
 
 ## 📸 Screenshots
