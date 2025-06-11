@@ -16,8 +16,8 @@ Landing page desenvolvida para a IT Solutions, focada em destacar serviços e so
 
 -   **React.js** - Biblioteca JavaScript para construção de interfaces
 -   **Vite** - Ferramenta de build rápida para desenvolvimento front-end
--   **JavaScript** - Linguagem de programação para desenvolvimento web
 -   **TypeScript** - Extensão do JavaScript que adiciona tipos estáticos para maior segurança
+-   **JavaScript** - Linguagem de programação para desenvolvimento web
 -   **HTML** - Linguagem de marcação que estrutura o conteúdo na web
 -   **CSS** - Linguagem de estilos usada para definir o visual das interfaces web
 -   **Styled Components** - Biblioteca para estilização baseada em componentes no React
